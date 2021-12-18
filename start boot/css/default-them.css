@@ -1,0 +1,43 @@
+.color-option,
+.dropdown-menu,
+.testimonials .carousel-indicators button.active,
+.dropdown-divider
+{
+    border: 3px solid  #DE2E18;
+}
+
+
+
+.color-option ul li,
+.fa-cog,
+.navbar-toggler,
+.carousel-indicators .active,
+.skill-info button,
+.Contact-Us .opa .row button,
+.subscribe button,
+.navbar-light .navbar-nav .show > .nav-link, 
+.navbar-light .navbar-nav .nav-link.active ,
+.navbar-light .navbar-nav .nav-link:hover,
+.dropdown-item:hover,
+#scroll-top
+{
+    background-color:  #DE2E18;
+}
+
+
+.about span,
+.navbar-brand span,
+.features i,
+.testimonials .carousel-item span,
+.footer h3,
+.footer #inc,
+.carousel-caption h1
+{
+    color: #de2e18;
+}
+
+.person h5,
+.person i
+{
+    color: #f3b1a8;
+}
